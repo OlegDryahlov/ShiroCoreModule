@@ -1,0 +1,8 @@
+[module]
+name = "ShiroCoreModule"
+type = "module"
+version = "1.0.0"
+
+
+[schema]
+version = 1

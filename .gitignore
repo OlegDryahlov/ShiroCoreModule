@@ -1,0 +1,11 @@
+# Файл Poetry
+/poetry.lock
+
+# Кэш Python
+__pycache__
+
+# Flake8 для проверки кода на соответствие PEP8
+/.flake8
+
+# Виртуальное окружение
+/.venv
